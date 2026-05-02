@@ -1,3 +1,5 @@
+[Русский](https://freeofficeuz.github.io/BCHoldes-legal/Policy_ru) | [O'zbekcha](https://freeofficeuz.github.io/BCHoldes-legal/Policy_uz)  
+  
 ## PRIVACY POLICY OF THE TELEGRAM BOT "Vizitnitsa"  
 
 Effective Date: "26" April 2026.  
