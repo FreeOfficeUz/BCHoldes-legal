@@ -1,3 +1,5 @@
+[O'zbekcha](https://freeofficeuz.github.io/BCHoldes-legal/Offer_uz) | [English](https://freeofficeuz.github.io/BCHoldes-legal/Offer_en)  
+  
 ## ПУБЛИЧНАЯ ОФЕРТА   
 на оказание услуг сервиса «Визитница»  
 
