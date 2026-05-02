@@ -1,3 +1,5 @@
+[Русский](https://freeofficeuz.github.io/BCHoldes-legal/Offer_ru) | [English](https://freeofficeuz.github.io/BCHoldes-legal/Offer_en)  
+  
 “Vizitnitsa” xizmatini ko'rsatish bo'yicha  
 ## OMMAVIY OFERTA (TAKLIF)  
 
