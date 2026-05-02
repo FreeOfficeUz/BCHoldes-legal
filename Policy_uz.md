@@ -1,3 +1,5 @@
+[Русский](https://freeofficeuz.github.io/BCHoldes-legal/Policy_ru) | [English](https://freeofficeuz.github.io/BCHoldes-legal/Policy_en)  
+  
 ## «Vizitnitsa» TELEGRAM BOTINING MAXFIYLIK SIYOSATI  
 
 Kuchga kirish sanasi: 2026-yil «16» aprel  
