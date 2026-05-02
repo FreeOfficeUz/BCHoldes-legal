@@ -8,5 +8,5 @@
 [Maxfiylik siyosati](https://freeofficeuz.github.io/BCHoldes-legal/Policy_uz)  
   
 **Read in English:**  
-[Public offer](https://freeofficeuz.github.io/BCHoldes-legal/Offer_uz)  
-[Privacy policy](https://freeofficeuz.github.io/BCHoldes-legal/Policy_uz)
+[Public offer](https://freeofficeuz.github.io/BCHoldes-legal/Offer_en)  
+[Privacy policy](https://freeofficeuz.github.io/BCHoldes-legal/Policy_en)
