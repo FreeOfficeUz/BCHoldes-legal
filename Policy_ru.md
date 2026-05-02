@@ -1,3 +1,5 @@
+[O'zbekcha](https://freeofficeuz.github.io/BCHoldes-legal/Policy_uz) | [English](https://freeofficeuz.github.io/BCHoldes-legal/Policy_en)  
+  
 ## ПОЛИТИКА КОНФИДЕНЦИАЛЬНОСТИ ТЕЛЕГРАМ-БОТА «Визитница»  
 
 Дата вступления в силу: «16» апреля 2026 г.  
