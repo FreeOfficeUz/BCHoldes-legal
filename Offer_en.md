@@ -1,3 +1,5 @@
+[Русский](https://freeofficeuz.github.io/BCHoldes-legal/Offer_ru) | [O'zbekcha](https://freeofficeuz.github.io/BCHoldes-legal/Offer_uz)  
+  
 ## PUBLIC OFFER  
 for the provision of "Vizitnitsa" service  
 
