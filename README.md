@@ -4,10 +4,9 @@
 [Политика конфиденциальности](https://freeofficeuz.github.io/BCHoldes-legal/Policy_ru)  
   
 **O'zbekcha o'qing:**  
-[Публичная оферта](https://freeofficeuz.github.io/BCHoldes-legal/Offer_uz)  
-[Политика конфиденциальности](https://freeofficeuz.github.io/BCHoldes-legal/Policy_uz)  
+[Ommaviy oferta (taklif)](https://freeofficeuz.github.io/BCHoldes-legal/Offer_uz)  
+[Maxfiylik siyosati](https://freeofficeuz.github.io/BCHoldes-legal/Policy_uz)  
   
 **Read in English:**  
-[Публичная оферта](https://freeofficeuz.github.io/BCHoldes-legal/Offer_uz)  
-  
-[Политика конфиденциальности](https://freeofficeuz.github.io/BCHoldes-legal/Policy_uz)
+[Public offer](https://freeofficeuz.github.io/BCHoldes-legal/Offer_uz)  
+[Privacy policy](https://freeofficeuz.github.io/BCHoldes-legal/Policy_uz)
