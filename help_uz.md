@@ -10,7 +10,7 @@
 * [6. Saqlangan tashrifnomalarini qanday koʻrish mumkin?](#6-saqlangan-tashrifnomalarini-qanday-koʻrish-mumkin)
 * [7. Saqlangan tashrifnomalari orasidan qidiruvni qanday amalga oshirish lozim?](#7-saqlangan-tashrifnomalari-orasidan-qidiruvni-qanday-amalga-oshirish-lozim)
 * [8. Bot interfeysi tilini qanday oʻzgartirish mumkin?](#8-bot-interfeysi-tilini-qanday-oʻzgartirish-mumkin)
-* [9. Profil ma’lumotlarini qanday koʻrish lozim?](#9-profil-malumotlarini-qanday-korish-lozim)
+* [9. Profil ma’lumotlarini qanday koʻrish lozim?](#9-profil-ma’lumotlarini-qanday-koʻrish-lozim?)
 * [10. Mavjud tadbirlar roʻyxatini qanday koʻrish mumkin?](#10-mavjud-tadbirlar-roʻyxatini-qanday-koʻrish-mumkin)
 * [11. Shaxsiy tadbirni qanday yaratish lozim?](#11-shaxsiy-tadbirni-qanday-yaratish-lozim)
 * [12. «Extended» tarifiga qanday ulanish mumkin?](#12-extended-tarifiga-qanday-ulanish-mumkin)
