@@ -128,7 +128,7 @@ Agar tarif hali faollashtirilmagan boʻlsa, botning asosiy klaviaturasida **«П
 
 | UZS dagi tariflar tarmogʻi | Stars dagi tariflar tarmogʻi |
 | :---: | :---: |
-| <img src="images_uz/Extended_sum.png" width="350"/> | <img src="images_uz/Extended_stars.png" width="350"/> |
+| <img src="images_uz/Extended_sum.png"/> | <img src="images_uz/Extended_stars.png"/> |
 
 3. **Toʻlov jarayoni:**
    * UZS orqali toʻlov tanlanganda, bot toʻlov tizimini — **Click** yoki **Payme**-ni tanlashni soʻraydi, shundan soʻng hisobni shakllantiradi.
@@ -136,7 +136,7 @@ Agar tarif hali faollashtirilmagan boʻlsa, botning asosiy klaviaturasida **«П
 
 | Shlyuz tanlovi (Click / Payme) | UZS dagi hisob | Stars dagi hisob |
 | :---: | :---: | :---: |
-| <img src="images_uz/Extended_payme_click.png" width="250"/> | <img src="images_uz/bill_sum.png" width="250"/> | <img src="images_uz/bill_stars.png" width="250"/> |
+| <img src="images_uz/Extended_payme_click.png"/> | <img src="images_uz/bill_sum.png"/> | <img src="images_uz/bill_stars.png"/> |
 
 ### 13. Boshqa masalalar
 * Servis intuitiv tushunarli tarzda tuzilgan: botning har bir buyrugʻi albatta matnli sharh yoki savol bilan birga keladi.
