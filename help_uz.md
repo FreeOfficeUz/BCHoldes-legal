@@ -122,13 +122,13 @@ Agar tarif hali faollashtirilmagan boʻlsa, botning asosiy klaviaturasida **«П
 
 | Asosiy klaviaturadagi ulanish tugmasi | Tarif tavsifi |
 |:---:|:---:|
-| ![Obunasiz asosiy menyu](images/main_2.png) | ![Extended tarifi tavsifi](images/Extended.png) |
+| ![Obunasiz asosiy menyu](images_uz/Extended_1.png) | ![Extended tarifi tavsifi](images_uz/Extended_2.png) |
 
 2. Davom etish uchun tavsif ostidagi klaviaturada yana bir bor **«Подключить Extended»** tugmasini bosing va mos keluvchi obuna muddatini (1, 3, 6 yoki 12 oy) tanlang. Servis milliy valyutada (UZS) yoki Telegram Yulduzlari (Stars) orqali toʻlov variantlarini taklif etadi.
 
 | UZS dagi tariflar tarmogʻi | Stars dagi tariflar tarmogʻi |
 | :---: | :---: |
-| <img src="images/extended_sum.png" width="350"/> | <img src="images/Extended_stars.png" width="350"/> |
+| <img src="images_uz/Extended_sum.png" width="350"/> | <img src="images_uz/Extended_stars.png" width="350"/> |
 
 3. **Toʻlov jarayoni:**
    * UZS orqali toʻlov tanlanganda, bot toʻlov tizimini — **Click** yoki **Payme**-ni tanlashni soʻraydi, shundan soʻng hisobni shakllantiradi.
@@ -136,7 +136,7 @@ Agar tarif hali faollashtirilmagan boʻlsa, botning asosiy klaviaturasida **«П
 
 | Shlyuz tanlovi (Click / Payme) | UZS dagi hisob | Stars dagi hisob |
 | :---: | :---: | :---: |
-| <img src="images/extended_sum_pay.png" width="250"/> | <img src="images/extended_sum_pay_bill.png" width="250"/> | <img src="images/extended_stars_pay.png" width="250"/> |
+| <img src="images_uz/Extended_payme_click.png" width="250"/> | <img src="images_uz/bill_sum.png" width="250"/> | <img src="images_uz/bill_stars.png" width="250"/> |
 
 ### 13. Boshqa masalalar
 * Servis intuitiv tushunarli tarzda tuzilgan: botning har bir buyrugʻi albatta matnli sharh yoki savol bilan birga keladi.
