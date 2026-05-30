@@ -90,7 +90,7 @@ Telegram-botda uchta interfeys tili mavjud: ruscha, oʻzbekcha va inglizcha. Int
 Profil haqidagi ma’lumotlarni koʻrish uchun **«Настройка»** (Sozlamalar) boʻlimiga oʻting va **«Профиль»** (Profil) tugmasini bosing.  
 Profilga oid kengaytirilgan ma’lumotlarning bir qismi bepul Standart tarifida koʻrsatilmaydi.
 
-![Profil ma’lumotlari ekrani](images_uz/poffile.png)
+![Profil ma’lumotlari ekrani](images_uz/poffile_uz.png)
 
 ### 10. Mavjud tadbirlar roʻyxatini qanday koʻrish mumkin?
 Ushbu funksiya **botning barcha foydalanuvchilari uchun** ochiq boʻlib, boshqa ishtirokchilar tomonidan oʻtkazilishi rejalashtirilgan tadbirlarni topish imkonini beradi.
