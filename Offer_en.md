@@ -1,4 +1,4 @@
-[Русский](https://freeofficeuz.github.io/BCHoldes-legal/Offer_ru) | [O'zbekcha](https://freeofficeuz.github.io/BCHoldes-legal/Offer_uz)  
+[Русский](https://freeofficeuz.github.io/BCHolder/Offer_ru) | [O'zbekcha](https://freeofficeuz.github.io/BCHolder/Offer_uz)  
   
 ## PUBLIC OFFER  
 for the provision of services granting access to the "Business card holder" service ("BCHolderBot")   
