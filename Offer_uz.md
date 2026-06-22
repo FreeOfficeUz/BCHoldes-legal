@@ -1,4 +1,4 @@
-[Русский](https://freeofficeuz.github.io/BCHoldes-legal/Offer_ru) | [English](https://freeofficeuz.github.io/BCHoldes-legal/Offer_en)  
+[Русский](https://freeofficeuz.github.io/BCHolder/Offer_ru) | [English](https://freeofficeuz.github.io/BCHolder/Offer_en)  
   
 ## OMMAVIY OFERTA (TAKLIF)  
 «Vizitnitsa» («BCHolderBot») xizmatiga kirish huquqini taqdim etish bo'yicha xizmatlar ko'rsatish haqida  
