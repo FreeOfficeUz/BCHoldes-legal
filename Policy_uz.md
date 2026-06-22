@@ -1,4 +1,4 @@
-[Русский](https://freeofficeuz.github.io/BCHoldes-legal/Policy_ru) | [English](https://freeofficeuz.github.io/BCHoldes-legal/Policy_en)  
+[Русский](https://freeofficeuz.github.io/BCHolder/Policy_ru) | [English](https://freeofficeuz.github.io/BCHolder/Policy_en)  
   
 ## «Bcholderbot» TELEGRAM-BOTINING MAXFIYLIK SIYOSATI  
 
