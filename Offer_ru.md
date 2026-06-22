@@ -1,4 +1,4 @@
-[O'zbekcha](https://freeofficeuz.github.io/BCHoldes-legal/Offer_uz) | [English](https://freeofficeuz.github.io/BCHoldes-legal/Offer_en)  
+[O'zbekcha](https://freeofficeuz.github.io/BCHolder/Offer_uz) | [English](https://freeofficeuz.github.io/BCHolder/Offer_en)  
   
 ## ПУБЛИЧНАЯ ОФЕРТА   
 на оказание услуг по предоставлению доступа к сервису «Визитница» ("BCHolderBot")  
